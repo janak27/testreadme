@@ -1,7 +1,7 @@
 
 # Contributor Code of Conduct
 
-Our [company values](https://auth0.com/careers/culture) guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
+Our values guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
 
 ## Our Pledge
 
@@ -41,7 +41,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us anonymously through [this form](https://goo.gl/forms/chVYUnA4bP70WGsL2). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us anonymously through [mail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZFHkLgCMfTPbNcwtXzTngJhZczfQNJWdPlChpVTVmrVJcVvHBTvqPvSzBNkCPbcXxGgQ). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
